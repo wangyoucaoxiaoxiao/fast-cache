@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-oil",
   "version": "0.0.1",
   "description": "短小精悍的前端缓存工具",
   "main": "src/index.js",
@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "gitbook": "^2.6.9",
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "user": "0.0.0"
   }
 }
